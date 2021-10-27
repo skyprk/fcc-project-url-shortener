@@ -1,3 +1,2 @@
-# Get Started!
-
-Add files and start typing 🎉
+# boilerplate-project-urlshortener
+A boilerplate for a freeCodeCamp project.
